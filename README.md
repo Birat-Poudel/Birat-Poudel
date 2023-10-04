@@ -8,7 +8,7 @@
 
 #### ✅ I’m looking to collaborate with other developers
 
-#### ✅ 2023 Goals: Contribute more to Open Source Projects
+#### ✅ 2023 Goals : Contribute more to Open Source Projects
 
 _Technology Stack : JavaScript, Java, Python_
 
