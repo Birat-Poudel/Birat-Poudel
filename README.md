@@ -18,4 +18,4 @@ _Programming Languages: Java, JavaScript, Python_
 
 _Technology Stack: Spring Boot, MERN, MEAN_
 
-_Core Interest : Design & Engineering_
+_Core Interest: Design & Engineering_
