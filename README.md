@@ -14,8 +14,6 @@
 
 ✅ 2023 Goals: Contribute more to Open Source Projects
 
-_Programming Languages: Java, JavaScript, Python_
-
-_Technology Stack: Spring Boot, MERN, MEAN_
+_Programming Languages: Java, Python, JS/TS_
 
 _Core Interest: Design & Engineering_
