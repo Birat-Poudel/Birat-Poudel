@@ -4,15 +4,15 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/birat-poudel-6562ba16b/)
 
-### 🖐️ Hi there, I'm Birat Poudel
+### 🖐️ Hi there, I'm Birat Poudel.
 
-💻 A Software Engineer based in Kathmandu
+💻 A Software Engineer based in Kathmandu.
 
 📫 How to reach me: poudel.birat25@gmail.com
 
-✅ I’m looking to collaborate with other developers
+✅ I’m looking to collaborate with other developers.
 
-✅ 2024 Goals: Contribute more to Open Source Projects
+✅ 2024 Goals: Contribute more to Open Source Projects.
 
 _Programming Languages: Java, Python, JS/TS_
 
