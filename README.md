@@ -12,7 +12,7 @@
 
 ✅ I’m looking to collaborate with other developers
 
-✅ 2023 Goals: Contribute more to Open Source Projects
+✅ 2024 Goals: Contribute more to Open Source Projects
 
 _Programming Languages: Java, Python, JS/TS_
 
