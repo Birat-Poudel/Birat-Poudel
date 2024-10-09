@@ -4,7 +4,7 @@
 
 [<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="auto" height="50" />](https://medium.com/@poudel.birat25)
 [<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" width="auto" height="50" />](https://www.kaggle.com/biratpoudelrocks) 
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="auto" height="40" />](https://www.linkedin.com/in/birat-poudel-6562ba16b/) 
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="auto" height="50" />](https://www.linkedin.com/in/birat-poudel-6562ba16b/) 
 
 ## 🖐️ Hi there, I'm **Birat Poudel**.
 
