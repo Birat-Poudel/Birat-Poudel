@@ -10,8 +10,6 @@
 
 💻 An **AI/ML | Software Engineer** based in Kathmandu.
 
-🌐 Portfolio Site: <a href="https://biratpoudel.com.np" target="_blank" rel="noopener noreferrer">biratpoudel.com.np</a>
-
 📫 How to reach me: poudel.birat25@gmail.com
 
 ✅ I’m looking to collaborate with other developers.
