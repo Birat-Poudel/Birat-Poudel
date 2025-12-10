@@ -12,10 +12,6 @@
 
 📫 How to reach me: poudel.birat25@gmail.com
 
-✅ I’m looking to collaborate with other developers.
-
-✅ 2025 Goals: Contribute more to Open Source Projects.
-
 💡 _Programming Languages: Python, JS/TS, Java_
 
 💡 _Core Interest: Research, Design & Engineering_
