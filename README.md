@@ -8,7 +8,7 @@
 
 ## 🖐️ Hi there, I'm **Birat Poudel**.
 
-💻 An **AI/ML | Software Engineer** based in Kathmandu.
+💻 An **AI/ML | Software Engineer**.
 
 📫 How to reach me: poudel.birat25@gmail.com
 
